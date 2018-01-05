@@ -1,0 +1,12 @@
+c:\users\mediff\documents\visual studio 2015\Projects\WinBrowser\WinBrowser\bin\Debug\WinBrowser.exe.config
+c:\users\mediff\documents\visual studio 2015\Projects\WinBrowser\WinBrowser\bin\Debug\WinBrowser.exe
+c:\users\mediff\documents\visual studio 2015\Projects\WinBrowser\WinBrowser\bin\Debug\WinBrowser.pdb
+c:\users\mediff\documents\visual studio 2015\Projects\WinBrowser\WinBrowser\obj\Debug\WinBrowser.Form1.resources
+c:\users\mediff\documents\visual studio 2015\Projects\WinBrowser\WinBrowser\obj\Debug\WinBrowser.Properties.Resources.resources
+c:\users\mediff\documents\visual studio 2015\Projects\WinBrowser\WinBrowser\obj\Debug\WinBrowser.csproj.GenerateResource.Cache
+c:\users\mediff\documents\visual studio 2015\Projects\WinBrowser\WinBrowser\obj\Debug\WinBrowser.exe
+c:\users\mediff\documents\visual studio 2015\Projects\WinBrowser\WinBrowser\obj\Debug\WinBrowser.pdb
+C:\Users\Mediff\Documents\Visual Studio 2015\Projects\WinBrowser\WinBrowser\obj\Debug\WinBrowser.SearchForm.resources
+D:\MyApps\WinBrowser_1511819977\WinBrowser\WinBrowser\bin\Debug\WinBrowser.exe.config
+D:\MyApps\WinBrowser_1511819977\WinBrowser\WinBrowser\obj\Debug\WinBrowser.exe
+D:\MyApps\WinBrowser_1511819977\WinBrowser\WinBrowser\obj\Debug\WinBrowser.pdb
